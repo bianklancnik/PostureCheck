@@ -1,3 +1,3 @@
 # PostureCheck
 
-Notification app remind you to fix your posture. Includes exercises.
+Notification app that reminds you to fix your posture. Includes exercises.
